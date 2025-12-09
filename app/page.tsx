@@ -34,7 +34,7 @@ export default function CostCalculator() {
               <Calculator className="h-8 w-8 text-primary-foreground" />
             </div>
           </div>
-          <h1 className="mb-2 text-balance text-4xl font-bold tracking-tight">Electrician Cost Calculator</h1>
+          <h1 className="mb-2 text-balance text-4xl font-bold tracking-tight">ElectrictionCostCalculator</h1>
           <p className="text-pretty text-lg text-muted-foreground">
             Calculate your total project costs with materials, labor, and travel
           </p>
