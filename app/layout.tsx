@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ElectrictionCostCalculator",
+  title: "Electrician Cost Calculator",
   description: "Calculate your electrical project costs with materials, labor hours, and travel time",
   generator: "v0.app",
   icons: {
